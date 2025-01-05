@@ -19,6 +19,6 @@ An advanced, interactive calculator web application featuring basic arithmetic o
 
 ## Live Demo
 You can view the live demo of the calculator by visiting the link below:
-[Live Demo](https://your-username.github.io/advanced-calculator/)
+[Live Demo](https://shubham-393.github.io/calculator/)
 
 
